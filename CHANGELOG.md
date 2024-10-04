@@ -40,7 +40,7 @@
 * **`TaskOperation`:** allow customizing priority of task ([6650693](https://github.com/SwiftyLab/AsyncObjects/commit/6650693730334657ec87c7e35ca53963cf30bf06))
 * **`TaskOperation`:** allow executing as detached task ([#7](https://github.com/SwiftyLab/AsyncObjects/issues/7)) ([e3dcfeb](https://github.com/SwiftyLab/AsyncObjects/commit/e3dcfeb8487b3d85fd7d68c7a56a382082125919))
 * **`TaskOperation`:** allow tracking child tasks completion ([571419d](https://github.com/SwiftyLab/AsyncObjects/commit/571419d25b6bd89d944612b873e404f8bc31417d))
-* **`TaskQueue`:** allow adding task to queue wihout waiting for completion ([d8ee18a](https://github.com/SwiftyLab/AsyncObjects/commit/d8ee18abc5b5abef9af572c267ca0a201602e2a1))
+* **`TaskQueue`:** allow adding task to queue without waiting for completion ([d8ee18a](https://github.com/SwiftyLab/AsyncObjects/commit/d8ee18abc5b5abef9af572c267ca0a201602e2a1))
 * add logging option ([#10](https://github.com/SwiftyLab/AsyncObjects/issues/10)) ([bdd688b](https://github.com/SwiftyLab/AsyncObjects/commit/bdd688b867e6c65b1060c88e5956e0676d31a610))
 * add scheduling with Clock API support ([#9](https://github.com/SwiftyLab/AsyncObjects/issues/9)) ([d1c5531](https://github.com/SwiftyLab/AsyncObjects/commit/d1c55312d32de6e7caf863c685ecbac19f6d2a95))
 
@@ -101,14 +101,14 @@
 * add option to provide number of objects to wait for ([20b5725](https://github.com/SwiftyLab/AsyncObjects/commit/20b5725c6e6f59d79f562d32adcc2dd76688d52d))
 * add priority based task execution on `TaskQueue` ([df5e6e7](https://github.com/SwiftyLab/AsyncObjects/commit/df5e6e7ece9c4c775aaac8d5c69338948ce60d66))
 * add task queue to run concurrent tasks and barrier tasks similar to DispatchQueue ([84e4d29](https://github.com/SwiftyLab/AsyncObjects/commit/84e4d29370fff9695911b0dee89aa33fa06cce20))
-* add transfering data across tasks with `Future` ([d4d658f](https://github.com/SwiftyLab/AsyncObjects/commit/d4d658fa1bd1c9381ab1facd133bc39e3afeff8d))
+* add transferring data across tasks with `Future` ([d4d658f](https://github.com/SwiftyLab/AsyncObjects/commit/d4d658fa1bd1c9381ab1facd133bc39e3afeff8d))
 * add wait for multiple synchronization objects ([68702b5](https://github.com/SwiftyLab/AsyncObjects/commit/68702b5522ec04e329fb839e72d034a50149e9ef))
 
 
 ### 📚 Documentation
 
 * add contributing guidelines ([e4a78ee](https://github.com/SwiftyLab/AsyncObjects/commit/e4a78ee75205d27868edb5d3ad56e8735f84256c))
-* add docC calatalog for library ([9e69dbb](https://github.com/SwiftyLab/AsyncObjects/commit/9e69dbb6d6d066ebfe04d920f96154e30a50af96))
+* add docC catalog for library ([9e69dbb](https://github.com/SwiftyLab/AsyncObjects/commit/9e69dbb6d6d066ebfe04d920f96154e30a50af96))
 * add github pages product specific documentation ([05e1e30](https://github.com/SwiftyLab/AsyncObjects/commit/05e1e30afe744bb69ce0998ddb9eb03859806226))
 * add installation and usage guidelines ([0b4df47](https://github.com/SwiftyLab/AsyncObjects/commit/0b4df47b0e023d3553bcb06c7b9175ff3d6a033e))
 
